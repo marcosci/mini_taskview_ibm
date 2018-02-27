@@ -9,6 +9,7 @@ Contributions are welcome! Please submit an issue, or make a contribution.
 - [simecol](http://simecol.r-forge.r-project.org/): "a lightweight R package that employs an object oriented paradigm for the implementation of dynamic simulation models."
 - [NetLogoR](https://github.com/PredictiveEcology/NetLogoR): "Easily create agent-based models in R following the NetLogo framework (Wilensky, 1999)."
 - [BacArena](https://cran.r-project.org/web/packages/BacArena/): "An Agent-Based Modeling Framework for Cellular Communities."
+- [rtsetse](https://github.com/AndySouth/rtsetse): "R package for simulating tsetse fly populations to investigate control options."
 
 
 ## Publications with code
