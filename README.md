@@ -1,6 +1,6 @@
 # mini_taskview_ibm
 
-This is a collection of agent-based (or individual-based) models in R. It includes packages and codes that simulate agents in a spatially explicit landscape or in a non-spatial way. 
+This is a collection of agent-based (or individual-based) models in R. It includes packages, codes, and tutorials dealing with the simulation of any kidn of agents in a spatially explicit landscape as well as in a non-spatial way. 
 
 Contributions are welcome! Please submit an issue, or make a contribution. 
 
@@ -17,3 +17,7 @@ Contributions are welcome! Please submit an issue, or make a contribution.
 
 #### spatially implicit
 - ["Sexual selection can both increase and decrease extinction probability: reconciling demographic and evolutionary factors" (doi: https://10.1111/1365-2656.12601)](http://onlinelibrary.wiley.com/doi/10.1111/1365-2656.12601/abstract)
+
+## Tutorials
+- ["An introduction to Agent-Based Modelling in R" by Marco Smolla](https://marcosmolla.wordpress.com/2015/07/16/an-introduction-to-agent-based-modelling-in-r/)
+
