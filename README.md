@@ -8,7 +8,7 @@
 ## Publications with code
 
 #### spatially explicit
--["Using movement data to estimate contact rates in a simulated environmentally-transmitted disease system" (doi: https://doi.org/10.1101/261198)](https://github.com/doughertyeric/Anthrax_Sim) 
+- ["Using movement data to estimate contact rates in a simulated environmentally-transmitted disease system" (doi: https://doi.org/10.1101/261198)](https://github.com/doughertyeric/Anthrax_Sim) 
 - ["Can stochastic geographical evolution re-create macroecological richness–environment correlations?" (doi: https://10.1111/j.1466-8238.2011.00661.x)](http://onlinelibrary.wiley.com/doi/10.1111/j.1466-8238.2011.00661.x/full)
 
 #### spatially implicit
