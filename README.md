@@ -9,7 +9,7 @@
 
 #### spatially explicit
 - ["Using movement data to estimate contact rates in a simulated environmentally-transmitted disease system" (doi: https://doi.org/10.1101/261198)](https://github.com/doughertyeric/Anthrax_Sim) 
-- ["Can stochastic geographical evolution re-create macroecological richness–environment correlations?" (doi: https://10.1111/j.1466-8238.2011.00661.x)](http://onlinelibrary.wiley.com/doi/10.1111/j.1466-8238.2011.00661.x/full)
+- ["Can stochastic geographical evolution re-create macroecological richness–environment correlations?" (doi: https://10.1111/j.1466-8238.2011.00661.x)](http://binarystore.wiley.com/store/10.1111/j.1466-8238.2011.00661.x/asset/supinfo/GEB_661_sm_AppendixS2.R?v=1&s=dba917a7068184d35d109b6af1b238a5aa45115d)
 
 #### spatially implicit
 - ["Sexual selection can both increase and decrease extinction probability: reconciling demographic and evolutionary factors" (doi: https://10.1111/1365-2656.12601)](http://onlinelibrary.wiley.com/doi/10.1111/1365-2656.12601/abstract)
