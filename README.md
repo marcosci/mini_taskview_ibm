@@ -1,5 +1,9 @@
 # mini_taskview_ibm
 
+This is a collection of agent-based (or individual-based) models in R. It includes packages and codes that simulate agents in a spatially explicit landscape or in a non-spatially way. 
+
+Contributions are welcome! Please submit an issue, or make a contribution. 
+
 ## Packages
 - [SpaDES](https://github.com/PredictiveEcology/SpaDES) : Metapackage for implementing a variety of event-based models, with a focus on spatially explicit models. These include raster-based, event-based, and agent-based models.
 - [simecol](http://simecol.r-forge.r-project.org/): "a lightweight R package that employs an object oriented paradigm for the implementation of dynamic simulation models."
