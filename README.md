@@ -1,6 +1,6 @@
 # mini_taskview_ibm
 
-This is a collection of agent-based (or individual-based) models in R. It includes packages and codes that simulate agents in a spatially explicit landscape or in a non-spatially way. 
+This is a collection of agent-based (or individual-based) models in R. It includes packages and codes that simulate agents in a spatially explicit landscape or in a non-spatial way. 
 
 Contributions are welcome! Please submit an issue, or make a contribution. 
 
