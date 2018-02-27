@@ -1,4 +1,4 @@
-# mini_taskview_abm
+# mini_taskview_ibm
 
 ## Packages
 - [SpaDES](https://github.com/PredictiveEcology/SpaDES) : Metapackage for implementing a variety of event-based models, with a focus on spatially explicit models. These include raster-based, event-based, and agent-based models.
